@@ -1,4 +1,4 @@
-const chatArenaPersonalities = [
+[
   {
     name: "Professor Eleanor Reed",
     character: "Systems Thinker",
